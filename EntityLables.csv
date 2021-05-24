@@ -1,0 +1,123 @@
+﻿ENTITY,ENTITY_ALIAS,LABEL,CONDITIONAL_ALIAS
+Agartala,Agartala,City,No
+Agra,Agra,City,No
+Ahmedabad,Ahmedabad,City,No
+Ajmer,Ajmer,City,No
+Alipurduar,Alipurduar,City,No
+Amravati,Amravati,City,No
+Amritsar,Amritsar,City,No
+Aurangabad,Aurangabad,City,No
+Bangalore,Bangalore,City,No
+Bathinda,Bathinda,City,No
+Bhiwandi,Bhiwandi,City,No
+Bhopal,Bhopal,City,No
+Bhubaneswar,Bhubaneswar,City,No
+Calicut,Calicut,City,No
+Chandigarh,Chandigarh,City,No
+Chennai,Chennai,City,No
+Cochin,Cochin,City,No
+Coimbatore,Coimbatore,City,No
+Dehradun,Dehradun,City,No
+Ghaziabad,Ghaziabad,City,No
+Gorakhpur,Gorakhpur,City,No
+Gurgaon,Gurgaon,City,No
+Guwahati,Guwahati,City,No
+Gwalior,Gwalior,City,No
+Hubli,Hubli,City,No
+Hyderabad,Hyderabad,City,No
+Indore,Indore,City,No
+Jabalpur,Jabalpur,City,No
+Jaipur,Jaipur,City,No
+Jalandhar,Jalandhar,City,No
+Kanpur,Kanpur,City,No
+Katihar,Katihar,City,No
+Kolhapur,Kolhapur,City,No
+Kolkata,Kolkata,City,No
+Kota,Kota,City,No
+Lucknow,Lucknow,City,No
+Ludhiana,Ludhiana,City,No
+Madurai,Madurai,City,No
+Meerut,Meerut,City,No
+Mehsana,Mehsana,City,No
+Mumbai,Mumbai,City,No
+Nagpur,Nagpur,City,No
+Nashik,Nashik,City,No
+New Delhi,New Delhi,City,No
+Panaji,Panaji,City,No
+Panipat,Panipat,City,No
+Patna,Patna,City,No
+Chandrapur,Chandrapur,City,No
+Hanumangarh,Hanumangarh,City,No
+Imphal,Imphal,City,No
+Jodhpur,Jodhpur,City,No
+Karnal,Karnal,City,No
+Muzaffarpur,Muzaffarpur,City,No
+Puducherry,Puducherry,City,No
+Calicut,Calicut,City,No
+Pune,Pune,City,No
+Raipur,Raipur,City,No
+Rajkot,Rajkot,City,No
+Ranchi,Ranchi,City,No
+Rudrapur,Rudrapur,City,No
+Salem,Salem,City,No
+Srinagar,Srinagar,City,No
+Surat,Surat,City,No
+Trichy,Trichy,City,No
+Trivandrum,Trivandrum,City,No
+Vadodara,Vadodara,City,No
+Varanasi,Varanasi,City,No
+Vijayawada,Vijayawada,City,No
+Jan,Jan,Month,No
+Feb,Feb,Month,No
+Mar,Mar,Month,No
+Apr,Apr,Month,No
+May,May,Month,No
+Jun,Jun,Month,No
+Jul,Jul,Month,No
+Aug,Aug,Month,No
+Sep,Sep,Month,No
+Oct,Oct,Month,No
+Nov,Nov,Month,No
+Dec,Dec,Month,No
+Jan,January,Month,Yes
+Feb,February,Month,Yes
+Mar,March,Month,Yes
+Apr,April,Month,Yes
+Jun,June,Month,Yes
+Jul,July,Month,Yes
+Aug,August,Month,Yes
+Sep,September,Month,Yes
+Oct,October,Month,Yes
+Nov,November,Month,Yes
+Dec,December,Month,Yes
+Andhra Pradesh,Andhra Pradesh,State,No
+Assam,Assam,State,No
+Bihar,Bihar,State,No
+Chattisgarh,Chattisgarh,State,No
+Delhi,Delhi,State,No
+Goa,Goa,State,No
+Gujarat,Gujarat,State,No
+Haryana,Haryana,State,No
+Jammu and Kashmir,JK,State,Yes
+Jammu and Kashmir,J &  k,State,Yes
+Jammu and Kashmir,J and K,State,Yes
+Jammu and Kashmir,Jammu and Kashmir,State,No
+Jharkhand,Jharkhand,State,No
+Karnataka,Karnataka,State,No
+Kerala,Kerala,State,No
+Madhya Pradesh,MP,State,Yes
+Madhya Pradesh,Madhya Pradesh,State,No
+Maharashtra,Maharashtra,State,No
+Odisha,Odisha,State,No
+Punjab,Punjab,State,No
+Rajasthan,Rajasthan,State,No
+Tamil Nadu,Tamil Nadu,State,No
+Telangana,Telangana,State,No
+Tripura,Tripura,State,No
+Uttar Pradesh,UP,State,Yes
+Uttar Pradesh,Uttar Pradesh,State,No
+Uttarakhand,Uttarakhand,State,No
+West Bengal,West Bengal,State,No
+Chandigarh,Chandigarh,State,No
+Manipur,Manipur,State,No
+Puducherry,Puducherry,State,No
