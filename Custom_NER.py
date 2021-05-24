@@ -7,7 +7,7 @@ lancaster=LancasterStemmer()
 from nltk.tokenize import word_tokenize
 
 # Import NERFunctions.py
-# NERFunctions contains the preprocessing and serching functions 
+# NERFunctions contains the preprocessing and searching functions 
 
 import NERFunctions 
 
