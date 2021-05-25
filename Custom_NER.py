@@ -11,8 +11,8 @@ from nltk.tokenize import word_tokenize
 
 import NERFunctions 
 
-question=''
-sentence=NERFunctions.preprocess(question)
+Inputsentence=''
+sentence=NERFunctions.preprocess(Inputsentence)
 
 # READ CSV FILE
 df = pd.read_csv("./EntityLables.csv")
