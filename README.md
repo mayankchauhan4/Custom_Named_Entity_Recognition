@@ -17,5 +17,5 @@ Jammu & kashmir - Jammu and kashmir
 
 Jammu & kashmir - J & K
 
-Open the CSV and look for this exmaple. If your entity have a alias name you have to set 'yes' in CONDITIONAL_ALIAS Column else 'no'.
+Open the CSV and look for this exmaple. If your entity have an alias name you have to set 'yes' in CONDITIONAL_ALIAS Column else 'no'.
 
