@@ -5,8 +5,9 @@ You can use spacy or google naural language API to extract entities from text ,y
 
 Step 1 - Open the CSV file ,Check the columns I have created .Just paste your data in the same format, thats it. run the code and extract entites from text.
 
-You can create alias name for entities you want to find from diffrent name.
 You can store your data in database in the same format and connect the database insted of CSV file. 
+
+You can create alias name for entities you want to find from diffrent name.
 
 example:
 
