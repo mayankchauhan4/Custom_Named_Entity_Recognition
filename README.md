@@ -9,7 +9,7 @@ You can store your data in database in the same format and connect the database 
 
 You can create alias name for entities you want to find from diffrent name.
 
-example:
+Example for CONDITIONAL_ALIAS :
 
 Jammu & kashmir - Jammu & kashmir 
 
@@ -17,5 +17,5 @@ Jammu & kashmir - Jammu and kashmir
 
 Jammu & kashmir - J & K
 
-Open the CSV and look for this exmaple. If your entity have a alias name you have to set 'yes' in CONDITIONAL_ALIAS Column.
+Open the CSV and look for this exmaple. If your entity have a alias name you have to set 'yes' in CONDITIONAL_ALIAS Column else 'no'.
 
